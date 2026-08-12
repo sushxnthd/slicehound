@@ -1,0 +1,9 @@
+{
+  "n": 3200,
+  "global_error_rate": 0.1991,
+  "best_rule": "confidence <= 0.403 AND latency > 0.612",
+  "best_lift": 4.2522,
+  "target_pair_rule": "confidence <= 0.403 AND latency > 0.612",
+  "target_pair_lift": 4.2522,
+  "target_pair_support": 508
+}
