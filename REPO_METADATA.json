@@ -1,0 +1,12 @@
+{
+  "description": "Interpretable beam search for hidden high-error ML subgroups.",
+  "topics": [
+    "machine-learning",
+    "slice-discovery",
+    "error-analysis",
+    "subgroup-discovery",
+    "interpretability",
+    "robustness"
+  ],
+  "homepage": "https://sushxnthd.github.io/slicehound/"
+}
